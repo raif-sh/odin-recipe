@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(59, 80, 97);
     font-family: Tahoma, sans-serif;
 }
 
@@ -9,6 +9,12 @@ h1 {
 
 h1, h2, h3 {
     font-family: Georgia, serif;
+    color:rgb(232, 238, 243)
+}
+
+.welcome {
+ text-align: center;
+ color: rgb(182, 196, 207)
 }
 
 .header-photo {
@@ -18,14 +24,34 @@ h1, h2, h3 {
 
 nav {
     background-color: rgb(245, 247, 248);
-    border-radius: 26px;
     padding-top: 8px;
     padding-bottom: 8px;
     padding-left: 18px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .ingredients {
     font-size: 18px;
     list-style: circle;
+}
+
+.main, 
+.secondary {
+    background-color: rgb(230, 238, 242);
+    padding: 20px 30px;
+}
+
+.main {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.main ul {
+    list-style: none;
+}
+
+.main li,
+.secondary li {
+    padding: 10px;
 }

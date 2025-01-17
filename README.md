@@ -10,8 +10,5 @@ Using an external style sheet, added some css styles to the pages, mostly typogr
 
 ---
 
-Recipes so far - 
+17 jan - Applying some layout design after learning about CSS box model, padding and margin.
 
-1. Dhaal fry
-2. Air fryer potato wedges
-3. Afghani kabli pulao
